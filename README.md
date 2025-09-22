@@ -10,7 +10,7 @@ Línea 4 : coloca tu token
 
 Características añadidas:
 
-#✅ Crear nuevos repositorios con diversas opciones
+✅ Crear nuevos repositorios con diversas opciones
 ✅ Clonar repositorios existentes
 ✅ Actualizar información de repositorios
 ✅ Realizar commits y push desde la interfaz
