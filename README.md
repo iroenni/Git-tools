@@ -2,6 +2,7 @@
 Este repositorio es una potente herramienta para gestionarlas acciones de github
 
 Instrucciones de uso:
+Línea 4 : coloca tu token
 
 1. Guarda el script en un archivo (por ejemplo, github_manager.sh)
 2. Hazlo ejecutable: chmod +x github_manager.sh
